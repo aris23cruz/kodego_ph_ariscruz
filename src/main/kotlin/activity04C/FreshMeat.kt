@@ -1,4 +1,3 @@
 package activity04C
 
-class FreshMeat {
-}
+class FreshMeat(var weight:Int)

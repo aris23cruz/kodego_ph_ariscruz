@@ -1,4 +1,3 @@
 package activity04C
 
-class DairyProducts {
-}
+class DairyProducts(var volume:Int,var weight:Int)

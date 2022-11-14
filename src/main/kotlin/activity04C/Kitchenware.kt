@@ -1,4 +1,3 @@
 package activity04C
 
-class Utensils {
-}
+class Kitchenware(var size:Int, var model:String)

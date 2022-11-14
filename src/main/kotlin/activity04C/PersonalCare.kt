@@ -1,4 +1,3 @@
 package activity04C
 
-class PersonalCare {
-}
+class PersonalCare(var volume:Int,var color:String)

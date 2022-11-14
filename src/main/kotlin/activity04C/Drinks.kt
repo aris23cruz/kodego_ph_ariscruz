@@ -1,4 +1,3 @@
 package activity04C
 
-class Drinks {
-}
+class Drinks(var volume:Int)

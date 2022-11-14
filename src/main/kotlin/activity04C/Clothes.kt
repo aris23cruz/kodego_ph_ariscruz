@@ -1,4 +1,3 @@
 package activity04C
 
-class Clothes {
-}
+class Clothes(var size:String, var color:String)
